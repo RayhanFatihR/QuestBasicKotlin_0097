@@ -1,5 +1,7 @@
 # QuestBasicKotlin_0097
 mencoba kotlin
 
-## 1. Variables & Basic Types
-<img width="928" height="848" alt="image" src="https://github.com/user-attachments/assets/98334d53-316f-42a0-85cc-08004fbd4c12" />
+<img width="927" height="818" alt="image" src="https://github.com/user-attachments/assets/016f88d6-3aac-4cc6-be21-db1131b0c9c7" />
+
+
+## String 
