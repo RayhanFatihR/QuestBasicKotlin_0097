@@ -9,3 +9,6 @@ mencoba kotlin
 
 ## Collection
 <img width="928" height="835" alt="image" src="https://github.com/user-attachments/assets/08ce93bd-452d-47b2-a933-23f3491e5192" />
+
+## Conditional Expressions 
+<img width="929" height="839" alt="image" src="https://github.com/user-attachments/assets/d92e41c0-c7ef-4e5d-bc59-0ef785304c5f" />
