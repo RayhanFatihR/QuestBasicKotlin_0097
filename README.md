@@ -19,3 +19,5 @@ mencoba kotlin
 ## Functions & Lambda
 <img width="927" height="846" alt="image" src="https://github.com/user-attachments/assets/dbedb12e-3ace-4c59-8045-f01790585b92" />
 
+## Class & Data Class
+<img width="929" height="830" alt="image" src="https://github.com/user-attachments/assets/550a732f-0fbd-492e-bcac-5e68fa3643d2" />
