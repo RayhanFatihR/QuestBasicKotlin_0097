@@ -12,3 +12,6 @@ mencoba kotlin
 
 ## Conditional Expressions 
 <img width="929" height="839" alt="image" src="https://github.com/user-attachments/assets/d92e41c0-c7ef-4e5d-bc59-0ef785304c5f" />
+
+## Ranges & Loops
+<img width="926" height="866" alt="image" src="https://github.com/user-attachments/assets/989f789d-f700-4aaf-9534-539841924ae8" />
