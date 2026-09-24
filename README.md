@@ -15,3 +15,7 @@ mencoba kotlin
 
 ## Ranges & Loops
 <img width="926" height="866" alt="image" src="https://github.com/user-attachments/assets/989f789d-f700-4aaf-9534-539841924ae8" />
+
+## Functions & Lambda
+<img width="927" height="846" alt="image" src="https://github.com/user-attachments/assets/dbedb12e-3ace-4c59-8045-f01790585b92" />
+
