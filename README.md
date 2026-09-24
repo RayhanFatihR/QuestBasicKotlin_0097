@@ -21,3 +21,6 @@ mencoba kotlin
 
 ## Class & Data Class
 <img width="929" height="830" alt="image" src="https://github.com/user-attachments/assets/550a732f-0fbd-492e-bcac-5e68fa3643d2" />
+
+## Null Safety
+<img width="929" height="878" alt="image" src="https://github.com/user-attachments/assets/951ac44f-fce1-4a4a-9d24-4fec818e40a5" />
